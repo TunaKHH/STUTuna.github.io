@@ -1,16 +1,16 @@
 ---
-date: 2015-09-06 12:00:00
+date: 2021-03-22 12:26:40
 layout: post
-title: Passion is dangerous, go for it!
-subtitle: Lorem ipsum dolor sit amet, consectetur adipisicing elit.
+title: 我是範例文章
+subtitle: 這是標題的兒子-子標題
 description: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-image: https://res.cloudinary.com/dm7h7e8xj/image/upload/v1559825288/theme17_nlndhx.jpg
-optimized_image: https://res.cloudinary.com/dm7h7e8xj/image/upload/c_scale,w_380/v1559825288/theme17_nlndhx.jpg
-category: work
+image: https://obs.line-scdn.net/0hQVhQ4s8KDnlVKCMuFR5xLm9-DRZmRB16MR5fehZGUE0rGkgqPElBF3Z9A0wrHUknOxlEHXAgFUhxHxspbEpB/w644
+optimized_image: https://obs.line-scdn.net/0hQVhQ4s8KDnlVKCMuFR5xLm9-DRZmRB16MR5fehZGUE0rGkgqPElBF3Z9A0wrHUknOxlEHXAgFUhxHxspbEpB/w644
+category: life
 tags:
-  - work
-  - career
-author: thiagorossener
+  - life
+  - tips
+author: tuna
 ---
 
 Cas sociis natoque penatibus et magnis <a href="#">dis parturient montes</a>, nascetur ridiculus mus. *Aenean eu leo quam.* Pellentesque ornare sem lacinia quam venenatis vestibulum. Sed posuere consectetur est at lobortis. Cras mattis consectetur purus sit amet fermentum.
@@ -124,3 +124,4 @@ Aenean lacinia bibendum nulla sed consectetur. Lorem ipsum dolor sit amet, conse
 </table>
 
 Nullam id dolor id nibh ultricies vehicula ut id elit. Sed posuere consectetur est at lobortis. Nullam quis risus eget urna mollis ornare vel eu leo.
+

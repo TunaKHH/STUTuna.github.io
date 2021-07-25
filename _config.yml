@@ -1,5 +1,5 @@
 # Site Settings
-name: Jekflix
+name: Tuna
 title: Jekflix | A blog theme for Jekyll
 description: Jekflix is a template for Jekyll inspired by Netflix and made by
   Thiago Rossener.
@@ -25,12 +25,12 @@ disqus_username: disqus_username
 
 # Social Media Settings
 # Remove the item if you don't need it
-github_username: github_username
-facebook_username: facebook_username
-twitter_username: twitter_username
-instagram_username: instagram_username
-linkedin_username: linkedin_username
-medium_username: medium_username
+github_username: STUTuna
+# facebook_username: tuna.jack
+# twitter_username: twitter_username
+# instagram_username: tuna_10_28
+# linkedin_username: linkedin_username
+# medium_username: medium_username
 
 
 # Posts Settings
@@ -101,4 +101,4 @@ exclude: [
 ]
 
 # Theme
-version: v3.1.0
+# version: v3.1.0
