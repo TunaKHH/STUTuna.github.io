@@ -1,9 +1,9 @@
 ---
 date: 2021-03-22 12:26:40
 layout: post
-title: 我是範例文章
+title: 我是一堆範例 奇奇怪怪MD語法可以參考我
 subtitle: 這是標題的兒子-子標題
-description: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+description: 上面是一位跳舞超厲害的韓國舞蹈老師～～
 image: https://obs.line-scdn.net/0hQVhQ4s8KDnlVKCMuFR5xLm9-DRZmRB16MR5fehZGUE0rGkgqPElBF3Z9A0wrHUknOxlEHXAgFUhxHxspbEpB/w644
 optimized_image: https://obs.line-scdn.net/0hQVhQ4s8KDnlVKCMuFR5xLm9-DRZmRB16MR5fehZGUE0rGkgqPElBF3Z9A0wrHUknOxlEHXAgFUhxHxspbEpB/w644
 category: life
