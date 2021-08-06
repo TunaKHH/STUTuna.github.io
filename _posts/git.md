@@ -17,8 +17,6 @@ author: tuna
 
 [![hackmd-github-sync-badge](https://hackmd.io/SL7V0FCgQcmHvf2V1ylh8A/badge)](https://hackmd.io/SL7V0FCgQcmHvf2V1ylh8A)
 
-
-[TOC]
 ## Git .gitignore - 忽略特定檔案
 
 ### 忽略特定檔案
