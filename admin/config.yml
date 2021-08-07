@@ -338,7 +338,7 @@ collections:
                 name: "share"
                 widget: "string"
                 required: false
-              - label: "留個言"
+              - label: "Comments"
                 name: "comments"
                 widget: "string"
                 required: false
