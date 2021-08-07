@@ -10,13 +10,13 @@ tags:
   - netlify
 show_hero: true
 menu:
-  - title: Home
+  - title: 首頁 Home
     url: /
-  - title: About
+  - title: 關於我 About
     url: /about
-  - title: Contact
+  - title: 聯絡我 Contact
     url: /contact
-  - title: Feed
+  - title: 訂閱 Feed
     url: /feed.xml
 email: XX@gmail.com
 disqus_username: disqus_username
@@ -43,7 +43,7 @@ two_columns_layout: true
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site
 google_analytics: "G-HHC9G5KPC3"
-language: "en"
+language: "zh-TW"
 categories_folder: category
 sent_message_url: "/contact/message-sent/"
 
@@ -103,12 +103,12 @@ exclude: [
 # version: v3.1.0
 translations:
   text:
-    new_post: "New Post"
+    new_post: "新文章"
     see_also: "也看看其他ㄉ"
     search: "搜尋"
     author: "作者"
     share: "分享"
-    comments: "留言板板"
+    comments: "留言板"
   button:
     read_now: "點我！"
     share_on_twitter: "分享到twitter"
