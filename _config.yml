@@ -119,8 +119,8 @@ translations:
     next_page: "Next Page"
     next_post: "Previous Page"
   recommendation:
-    text: "Why don't you read something next?"
-    back_btn: "Go back to top"
+    text: "看看其他文章"
+    back_btn: "回頂部瞧瞧"
   error_404:
     title: "找不到頁面" :("
     message: "我找不到頁面，你應該跟我道歉。"
