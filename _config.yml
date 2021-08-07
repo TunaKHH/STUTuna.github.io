@@ -1,8 +1,7 @@
 # Site Settings
 name: Tuna
-title: Jekflix | A blog theme for Jekyll
-description: Jekflix is a template for Jekyll inspired by Netflix and made by
-  Thiago Rossener.
+title: Tuna bonbon Blog
+description: Welcome to Tuna bonbon Blog.
 tags:
   - blog
   - template
@@ -11,16 +10,16 @@ tags:
   - netlify
 show_hero: true
 menu:
-  - title: Home
+  - title: 首頁 Home
     url: /
-  - title: About
+  - title: 關於我 About
     url: /about
-  - title: Contact
+  - title: 聯絡我 Contact
     url: /contact
-  - title: Feed
+  - title: 訂閱 Feed
     url: /feed.xml
-email: youremail@test.com
-disqus_username: disqus_username
+email: XX@gmail.com
+disqus_username: STUTuna
 
 
 # Social Media Settings
@@ -43,8 +42,8 @@ two_columns_layout: true
 # Advanced Settings
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site
-google_analytics: "UA-XXXXXXXX-X"
-language: "en"
+google_analytics: "G-HHC9G5KPC3"
+language: "zh-TW"
 categories_folder: category
 sent_message_url: "/contact/message-sent/"
 
@@ -57,7 +56,7 @@ collections:
   authors:
     output: true
 paginate_path: "/page/:num/"
-show_get_theme_btn: true
+show_get_theme_btn: false
 use_logo: false
 
 # Content paginator
@@ -102,3 +101,44 @@ exclude: [
 
 # Theme
 # version: v3.1.0
+translations:
+  text:
+    new_post: "新文章"
+    see_also: "也看看其他ㄉ"
+    search: "搜尋"
+    author: "作者"
+    share: "分享"
+    comments: "留言板"
+  button:
+    read_now: "點我！"
+    share_on_twitter: "分享到twitter"
+    share_on_facebook: "分享到Facebook"
+  pagination:
+    page: "Page"
+    of: "of"
+    next_page: "Next Page"
+    next_post: "Previous Page"
+  recommendation:
+    text: "Why don't you read something next?"
+    back_btn: "Go back to top"
+  error_404:
+    title: "Page not found :("
+    message: "I'm sorry. We couldn't find the page you are looking for."
+    image_alt: "404 - Page not found"
+  contact:
+    title: "和我說話"
+    subject: "New contact!"
+    submit_btn: "送出"
+    placeholders:
+      name: "怎麼稱呼"
+      email: "可以聯絡你的信箱"
+      message: "悄悄話寫這裡"
+    errors:
+      locale: "en"
+      empty_name: "Name is required"
+      empty_email: "Email is required"
+      invalid_email: "Email is invalid"
+      empty_message: "Message is required"
+    after_send:
+      title: "Message sent!"
+      message: "Thank you for sending me a message. I'm going to answer ASAP."
