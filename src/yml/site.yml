@@ -10,13 +10,13 @@ tags:
   - netlify
 show_hero: true
 menu:
-  - title: Home
+  - title: 首頁 Home
     url: /
-  - title: About
+  - title: 關於我 About
     url: /about
-  - title: Contact
+  - title: 聯絡我 Contact
     url: /contact
-  - title: Feed
+  - title: 訂閱 Feed
     url: /feed.xml
 email: youremail@test.com
 disqus_username: disqus_username

@@ -126,13 +126,13 @@ translations:
     message: "I'm sorry. We couldn't find the page you are looking for."
     image_alt: "404 - Page not found"
   contact:
-    title: "Talk to me"
+    title: "和我說話"
     subject: "New contact!"
-    submit_btn: "Send"
+    submit_btn: "送出"
     placeholders:
-      name: "Your name"
-      email: "Your e-mail"
-      message: "Your message"
+      name: "怎麼稱呼"
+      email: "可以聯絡你的信箱"
+      message: "悄悄話寫這裡"
     errors:
       locale: "en"
       empty_name: "Name is required"
