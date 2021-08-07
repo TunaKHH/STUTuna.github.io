@@ -40,8 +40,8 @@ two_columns_layout: true
 
 
 # Advanced Settings
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site
+baseurl: "/" # the subpath of your site, e.g. /blog
+url: "https://stutuna.github.io/" # the base hostname & protocol for your site
 google_analytics: "G-HHC9G5KPC3"
 language: "zh-TW"
 categories_folder: category
@@ -122,8 +122,8 @@ translations:
     text: "Why don't you read something next?"
     back_btn: "Go back to top"
   error_404:
-    title: "Page not found :("
-    message: "I'm sorry. We couldn't find the page you are looking for."
+    title: "找不到頁面" :("
+    message: "我找不到頁面，你應該跟我道歉。"
     image_alt: "404 - Page not found"
   contact:
     title: "和我說話"
